@@ -2,14 +2,13 @@
 	padding: 20px 0px 20px 0px;
 }
 
-
-
 .returntop {
 	text-align: center;
 	color: #FFFFFF;
 	font-weight: bold;
 	text-decoration: none;
-}.center {
+}
+.center {
 	clear: both;
 	display: block;
 	margin-right: auto;
@@ -37,7 +36,7 @@
 	max-width: 900px;
 	margin-bottom: 23px;
 	text-align: justify;
-	background-color: rgba(0,0,0,0.65);
+	background-color: none;
 	border-radius: 20px;
 	font-size: medium;
 }
