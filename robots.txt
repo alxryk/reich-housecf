@@ -1,3 +1,5 @@
 User-agent: *
 Disallow: /images/prismwelcome.png
 Disallow: /images/angel1.png
+Disallow: /images/fbangel1.png
+Disallow: /images/fbprismwelcome.png
