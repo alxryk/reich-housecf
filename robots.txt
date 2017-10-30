@@ -1,4 +1,6 @@
 User-agent: *
 Disallow:
 User-agent: Googlebot-Image
-Disallow: /images/angel1.png prismwelcome.png
+Disallow: /images/angel1.png
+User-agent: Googlebot-Image
+Disallow: /images/prismwelcome.png
