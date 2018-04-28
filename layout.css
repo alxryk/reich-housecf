@@ -172,13 +172,18 @@ margin-left: 0;
 	padding-left: auto;
 	padding-right: auto;
 }
+#Figure 1 {
+	float: left;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	margin-top: 10px;
+}
 #seanceroom1 {
 	float: right;
 	margin-bottom: 10px;
 	margin-left: 10px;
 	margin-top: 10px;
 }
-
 #videos {
 	clear: both;
 	float: none;
