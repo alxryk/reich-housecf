@@ -88,3 +88,19 @@ display: block;
 	margin-top: 10px;
 	float: right;
 }
+/* VideoJS - show poster, show play button, hide bottom controls */
+
+.video-js.vjs-ended .vjs-poster {
+display: block;
+}
+.video-js.vjs-ended .vjs-control-bar {
+  display: none;
+}
+.video-js.vjs-ended .vjs-big-play-button {
+  display: block;
+}
+
+/* VideoJS - END */
+.bold {
+	font-weight: bolder;
+}
